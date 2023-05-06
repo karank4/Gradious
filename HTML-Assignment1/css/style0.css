@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid;
+
+  }
+  table{
+    width: 95%;
+  }
+  th{
+    height: auto;
+    font-weight: bold;
+    text-align: -internal-center;
+  }
