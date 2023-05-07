@@ -1,0 +1,32 @@
+.zero{
+    text-align: center;
+    padding: 20px 0;
+    height: 40px;
+
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+
+    background-color: antiquewhite;    
+}
+.first{
+    text-align: right;
+}
+
+.second{
+    text-align: justify;
+}
+
+.third{
+    text-align: left;
+}
+
+.fourth{
+    text-align: center;
+}
+
+hr{
+    height: 2px;
+    color:black;
+    background-color:black;
+}
