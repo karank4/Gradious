@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(138, 215, 238);
+    text-align: center;
+    font-size: 40px;
+}
+hr{
+    height: auto;
+    color: black;
+}

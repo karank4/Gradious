@@ -1,0 +1,29 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+    font-size: 35px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: brown;
+}
+
+h3{
+    color: cadetblue;
+}
+
+h4{
+    color: blue;
+}
+
+h5{
+    color: green;
+}
+
+h6{
+    color:rgb(0, 255, 0) ;
+}
