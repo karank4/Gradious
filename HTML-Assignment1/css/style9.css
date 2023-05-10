@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background-color: rgb(125, 238, 131);
+    height: 90px;
+    width: 90%;
+    margin: 5%;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    
+    gap: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(202, 181, 223);
+}

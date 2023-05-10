@@ -1,0 +1,29 @@
+
+
+
+
+.heading{
+    font-size: 80px;
+    text-align: center;
+    color: blue;
+    display: block;
+    margin-bottom: 30px;
+}
+
+div span{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.one{
+    text-align: center;
+ }
+
+ .two{
+     text-align: start;
+ }
+
+.three{
+    text-align: end;
+}
+
